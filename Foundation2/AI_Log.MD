@@ -1,0 +1,1 @@
+I did ask AI (ChatGPT) about batch-oriented ETL specifically. It actually got most everything right. I noticed more grammar mistakes than I did actual content mistakes. I did have some trouble getting it to compare the other models in an efficient manner. Even when I asked for a table, it got a little confused and produced another very lengthy paragraph.
